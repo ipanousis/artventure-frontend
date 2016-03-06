@@ -1,0 +1,16 @@
+{
+  "name": "artventure-frontend",
+  "version": "0.0.1",
+  "description": "The Artventure online platform",
+  "author": "ipanousis156@gmail.com",
+  "scripts": {
+    "test": "vows --spec --isolate"
+  },
+  "main": "lib/foo.js",
+  "dependencies": {
+    "bootstrap": "3.3.6"
+  },
+  "devDependencies": {
+  },
+  "license": "MIT"
+}
